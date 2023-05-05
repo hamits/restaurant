@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/restaurant/static/css/main.e732cc1d.css",
+    "main.js": "/restaurant/static/js/main.121b1eab.js",
+    "static/media/5veggie.jpg": "/restaurant/static/media/5veggie.32301e97de6f294e5fcb.jpg",
+    "static/media/2blackbean.jpg": "/restaurant/static/media/2blackbean.36415d1cc4dfd4b98940.jpg",
+    "static/media/6cheese.jpg": "/restaurant/static/media/6cheese.bf117352d35604925fa1.jpg",
+    "static/media/banner.jpg": "/restaurant/static/media/banner.bf117352d35604925fa1.jpg",
+    "static/media/4turkey.jpeg": "/restaurant/static/media/4turkey.d8f2641d78603d4690d5.jpeg",
+    "static/media/3chicken.jpg": "/restaurant/static/media/3chicken.13ce9b600c6052050767.jpg",
+    "static/media/1beef.jpg": "/restaurant/static/media/1beef.703f74c6dd7ed1919a1a.jpg",
+    "static/media/hamburgerlogo.png": "/restaurant/static/media/hamburgerlogo.02cf7c3fba5737cdfe8d.png",
+    "index.html": "/restaurant/index.html",
+    "main.e732cc1d.css.map": "/restaurant/static/css/main.e732cc1d.css.map",
+    "main.121b1eab.js.map": "/restaurant/static/js/main.121b1eab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e732cc1d.css",
+    "static/js/main.121b1eab.js"
+  ]
+}
