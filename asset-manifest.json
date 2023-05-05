@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "//hamits.github.io/restaurant/static/css/main.0e7ea622.css",
-    "main.js": "//hamits.github.io/restaurant/static/js/main.55c6e2f7.js",
+    "main.js": "//hamits.github.io/restaurant/static/js/main.5512b571.js",
     "static/media/5veggie.jpg": "//hamits.github.io/restaurant/static/media/5veggie.32301e97de6f294e5fcb.jpg",
     "static/media/2blackbean.jpg": "//hamits.github.io/restaurant/static/media/2blackbean.36415d1cc4dfd4b98940.jpg",
     "static/media/6cheese.jpg": "//hamits.github.io/restaurant/static/media/6cheese.bf117352d35604925fa1.jpg",
@@ -12,10 +12,10 @@
     "static/media/hamburgerlogo.png": "//hamits.github.io/restaurant/static/media/hamburgerlogo.02cf7c3fba5737cdfe8d.png",
     "index.html": "//hamits.github.io/restaurant/index.html",
     "main.0e7ea622.css.map": "//hamits.github.io/restaurant/static/css/main.0e7ea622.css.map",
-    "main.55c6e2f7.js.map": "//hamits.github.io/restaurant/static/js/main.55c6e2f7.js.map"
+    "main.5512b571.js.map": "//hamits.github.io/restaurant/static/js/main.5512b571.js.map"
   },
   "entrypoints": [
     "static/css/main.0e7ea622.css",
-    "static/js/main.55c6e2f7.js"
+    "static/js/main.5512b571.js"
   ]
 }
