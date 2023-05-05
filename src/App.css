@@ -319,8 +319,6 @@ form textarea:focus{
   outline: none;
 }
 
-
-
 form button{
   width: 150px;
   height: 40px;
@@ -328,6 +326,12 @@ form button{
   color: white;
   font-size: 15px;
   cursor: pointer;
+}
+
+@media (max-width:450px){
+  .contactLeftSide{
+    display: none;
+  }
 }
 
 /*Contact Ending*/
